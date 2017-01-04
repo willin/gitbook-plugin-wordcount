@@ -1,0 +1,17 @@
+{
+  "name": "gitbook-plugin-wordcount",
+  "version": "0.0.1",
+  "description": "Wordcount Plugin for Gitbook",
+  "main": "index.js",
+  "engines": {
+    "gitbook": "*"
+  },
+  "repository": "git@github.com:willin/gitbook-plugin-wordcount.git",
+  "author": "willin <willin@willin.org>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "html-to-text": "^3.0.0",
+    "wordcount": "^1.1.1"
+  }
+}
